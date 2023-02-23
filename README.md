@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yuletsy
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning SQL, Power BI, Python and Machine learning 
+- 🌱 I’m currently learning SQL, Power BI, Python and Business Intelligence  
 - 💞️ 
 - 📫 
 
